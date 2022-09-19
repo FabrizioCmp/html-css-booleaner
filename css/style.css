@@ -11,6 +11,11 @@ header{
     background-size: 40%;
 }
 
+section{
+    margin-left: 8px;
+    margin-right: 8px;
+}
+
 .logo{
     height: 40%;
     position: absolute;
@@ -39,10 +44,39 @@ header{
     margin-top: 15px;
 }
 
-.imgs > img{
-    size: ;
-}
-
 .imgs > div{
     font-size: x-small;
+}
+
+.bkg-yellow{
+    background-color: yellow;
+}
+
+.article > ul{
+    margin-top: 25px;
+    margin-left: 8px;
+    padding-left: 1%;
+}
+table{
+    width: 100%;
+    text-align: left;
+}
+.colonna25{
+    width: 25%;
+}
+.colonna50{
+    width: 50%;
+}
+
+thead{
+    color: white;
+    background-color: #4EA0FF;
+}
+
+tbody > tr{
+    height: 50px;
+}
+
+.bkg-lblue{
+    background-color: #B1E5F2;
 }
